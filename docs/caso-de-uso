@@ -1,0 +1,29 @@
+# Casos de Uso
+
+## 1. Atores do sistema
+
+- Administrador: gerencia usuários e consulta informações.
+- Operador da guarita: registra entradas e saídas de veículos.
+- Aluno: possui veículo cadastrado no sistema.
+- Servidor: possui veículo cadastrado no sistema.
+- Visitante: realiza entrada temporária no estacionamento.
+
+## 2. Casos de uso
+
+### UC01 - Cadastrar veículo
+O administrador cadastra a placa, o proprietário e a categoria do veículo.
+
+## UC02 - Registrar entrada
+O operador registra a entrada do veículo por meio da placa ou QR Code.
+
+### UC03 - Registrar saída
+O operador registra a saída do veículo e atualiza a disponibilidade da vaga.
+
+### UC04 - Consultar vagas
+O operador ou administrador consulta a quantidade de vagas disponíveis.
+
+### UC05 - Registrar operação offline
+O sistema armazena localmente as entradas e saídas quando não há conexão com a internet.
+
+### UC06 - Sincronizar dados
+Quando a internet retorna, o sistema envia os registros locais para o servidor central.
