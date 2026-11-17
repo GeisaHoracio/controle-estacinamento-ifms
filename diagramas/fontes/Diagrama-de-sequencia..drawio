@@ -1,0 +1,107 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="bYE4Rhjgov2IJs0w-ZFH">
+    <mxGraphModel dx="1562" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XquBWUMm8oaD-4LO7urD-7" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="sistema" vertex="1">
+          <mxGeometry height="300" width="100" x="310" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-8" parent="XquBWUMm8oaD-4LO7urD-7" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" value="" vertex="1">
+          <mxGeometry height="240" width="10" x="45" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-9" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="operador" vertex="1">
+          <mxGeometry height="300" width="100" x="70" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-10" parent="XquBWUMm8oaD-4LO7urD-9" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="120" width="10" x="45" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-11" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="banco de dados" vertex="1">
+          <mxGeometry height="310" width="100" x="660" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-12" parent="XquBWUMm8oaD-4LO7urD-11" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" value="" vertex="1">
+          <mxGeometry height="260" width="10" x="45" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-13" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="veiculo" vertex="1">
+          <mxGeometry height="300" width="100" x="500" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-14" parent="XquBWUMm8oaD-4LO7urD-13" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="120" width="10" x="45" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1.solicita registrode entrada" vertex="1">
+          <mxGeometry height="30" width="160" x="160" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-16" edge="1" parent="1" source="XquBWUMm8oaD-4LO7urD-10" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="XquBWUMm8oaD-4LO7urD-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="270" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="7.confirma a entrada&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="180" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-22" edge="1" parent="1" source="XquBWUMm8oaD-4LO7urD-8" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="return">
+          <mxGeometry relative="1" x="0.6596" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="280" />
+            </Array>
+            <mxPoint x="200" y="280" as="sourcePoint" />
+            <mxPoint x="120" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2.solicita a indetificaçao do veiculo" vertex="1">
+          <mxGeometry height="30" width="155" x="390" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-24" edge="1" parent="1" source="XquBWUMm8oaD-4LO7urD-8" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="XquBWUMm8oaD-4LO7urD-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-25" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="XquBWUMm8oaD-4LO7urD-8" value="return">
+          <mxGeometry relative="1" x="-0.5676" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="270" />
+            </Array>
+            <mxPoint x="550" y="270" as="sourcePoint" />
+            <mxPoint x="470" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3.informa placa e qrcode" vertex="1">
+          <mxGeometry height="30" width="100" x="420" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-29" edge="1" parent="1" source="XquBWUMm8oaD-4LO7urD-8" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="XquBWUMm8oaD-4LO7urD-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4.consulta os dados do veiculo" vertex="1">
+          <mxGeometry height="30" width="210" x="420" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-31" edge="1" parent="1" source="XquBWUMm8oaD-4LO7urD-8" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" target="XquBWUMm8oaD-4LO7urD-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="535" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6.registra a entrada" vertex="1">
+          <mxGeometry height="30" width="160" x="433" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="XquBWUMm8oaD-4LO7urD-34" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="XquBWUMm8oaD-4LO7urD-8" value="5.retorna os dados do veiculo">
+          <mxGeometry relative="1" x="-0.5224" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="660" y="340" />
+            </Array>
+            <mxPoint x="700" y="340" as="sourcePoint" />
+            <mxPoint x="620" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
