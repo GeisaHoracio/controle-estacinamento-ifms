@@ -5,7 +5,7 @@ Requisito Funcional |               Caso de Uso             |  Classe Relacionad
 
 RF1 – Cadastro de veículo|         Cadastrar veículo              Veículo
 
-RF2 – Identificar veículo         Identificar veículo              Veículo  
+RF2 – Identificar veículo      UC01 – Registrar entrada          Veículo  
 por placa ou QR Code
 
 RF3 – Registrar entrada         UC01 – Registrar entrada     Entrada, Veículo
